@@ -1,2 +1,5 @@
-# baby-one-megaphone
-Being a Telegram Bot I post all I got to a wordpress blog
+# BabyOne Megaphone
+
+## Who are you?
+
+Being a [Telegram Bot](https://core.telegram.org/bots/api) I post all I got to a WordPress blog through its [REST API](https://wordpress.org/plugins/rest-api/)
